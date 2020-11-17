@@ -12,5 +12,6 @@ public class Student {
     }
 
     public Student(int id) {
+        this.id = id;
     }
 }
